@@ -1,0 +1,17 @@
+{
+    "name": "srilatha/authentication",
+    "type": "library",
+    "description": "sample authentication library",
+    "authors": [
+        {
+            "name": "Srilatha"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
